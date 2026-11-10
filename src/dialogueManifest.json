@@ -1,0 +1,243 @@
+{
+  "w": {
+    "accent": "British (en-gb)",
+    "pawn": {
+      "move": [
+        {
+          "id": "w_pawn_move_king",
+          "text": "Long live the King!",
+          "ttsText": "Long liv the King!",
+          "file": "/assets/audio/dialogue/w_pawn_move_king.weba"
+        },
+        {
+          "id": "w_pawn_move_forward",
+          "text": "Hold the line! Forward!",
+          "file": "/assets/audio/dialogue/w_pawn_move_forward.weba"
+        },
+        {
+          "id": "w_pawn_move_advance",
+          "text": "For the crown and altar!",
+          "file": "/assets/audio/dialogue/w_pawn_move_advance.weba"
+        }
+      ],
+      "capture": [
+        {
+          "id": "w_pawn_capture_realm",
+          "text": "For the sanctum realm!",
+          "file": "/assets/audio/dialogue/w_pawn_capture_realm.weba"
+        },
+        {
+          "id": "w_pawn_capture_strike",
+          "text": "Stand fast! Shatter them!",
+          "file": "/assets/audio/dialogue/w_pawn_capture_strike.weba"
+        }
+      ]
+    },
+    "knight": {
+      "move": [
+        {
+          "id": "w_knight_move_charge",
+          "text": "Charge the breach!",
+          "file": "/assets/audio/dialogue/w_knight_move_charge.weba"
+        },
+        {
+          "id": "w_knight_move_leap",
+          "text": "Clear the ranks!",
+          "file": "/assets/audio/dialogue/w_knight_move_leap.weba"
+        }
+      ],
+      "capture": [
+        {
+          "id": "w_knight_capture_lance",
+          "text": "Yield before our lance!",
+          "file": "/assets/audio/dialogue/w_knight_capture_lance.weba"
+        }
+      ]
+    },
+    "bishop": {
+      "move": [
+        {
+          "id": "w_bishop_move_sanctum",
+          "text": "By the sacred altar.",
+          "file": "/assets/audio/dialogue/w_bishop_move_sanctum.weba"
+        }
+      ],
+      "capture": [
+        {
+          "id": "w_bishop_capture_judgment",
+          "text": "Sanctum judgment falls upon you!",
+          "file": "/assets/audio/dialogue/w_bishop_capture_judgment.weba"
+        }
+      ]
+    },
+    "rook": {
+      "move": [
+        {
+          "id": "w_rook_move_bastion",
+          "text": "The fortress advances.",
+          "file": "/assets/audio/dialogue/w_rook_move_bastion.weba"
+        }
+      ],
+      "capture": [
+        {
+          "id": "w_rook_capture_crush",
+          "text": "Crushed beneath our ramparts!",
+          "file": "/assets/audio/dialogue/w_rook_capture_crush.weba"
+        }
+      ]
+    },
+    "queen": {
+      "move": [
+        {
+          "id": "w_queen_move_command",
+          "text": "None shall contest my passage.",
+          "file": "/assets/audio/dialogue/w_queen_move_command.weba"
+        }
+      ],
+      "capture": [
+        {
+          "id": "w_queen_capture_cleave",
+          "text": "Bow before me, and scatter to dust!",
+          "ttsText": "Bough before me, and scatter to dust!",
+          "file": "/assets/audio/dialogue/w_queen_capture_cleave.weba"
+        }
+      ]
+    },
+    "king": {
+      "check": [
+        {
+          "id": "w_king_check_defend",
+          "text": "Guards! Protect the throne!",
+          "file": "/assets/audio/dialogue/w_king_check_defend.weba"
+        }
+      ],
+      "checkmate": [
+        {
+          "id": "w_king_checkmate_fall",
+          "text": "Our sanctum has fallen.",
+          "file": "/assets/audio/dialogue/w_king_checkmate_fall.weba"
+        }
+      ]
+    }
+  },
+  "b": {
+    "accent": "American (en-us)",
+    "pawn": {
+      "move": [
+        {
+          "id": "b_pawn_move_advance",
+          "text": "Move up! Take ground!",
+          "file": "/assets/audio/dialogue/b_pawn_move_advance.weba"
+        },
+        {
+          "id": "b_pawn_move_push",
+          "text": "Push the line!",
+          "file": "/assets/audio/dialogue/b_pawn_move_push.weba"
+        },
+        {
+          "id": "b_pawn_move_front",
+          "text": "Eyes forward!",
+          "file": "/assets/audio/dialogue/b_pawn_move_front.weba"
+        }
+      ],
+      "capture": [
+        {
+          "id": "b_pawn_capture_break",
+          "text": "Break their stone!",
+          "file": "/assets/audio/dialogue/b_pawn_capture_break.weba"
+        },
+        {
+          "id": "b_pawn_capture_down",
+          "text": "Target down!",
+          "file": "/assets/audio/dialogue/b_pawn_capture_down.weba"
+        }
+      ]
+    },
+    "knight": {
+      "move": [
+        {
+          "id": "b_knight_move_flank",
+          "text": "Flank them on the wing!",
+          "file": "/assets/audio/dialogue/b_knight_move_flank.weba"
+        },
+        {
+          "id": "b_knight_move_strike",
+          "text": "Strike from above!",
+          "file": "/assets/audio/dialogue/b_knight_move_strike.weba"
+        }
+      ],
+      "capture": [
+        {
+          "id": "b_knight_capture_trample",
+          "text": "Ride them down!",
+          "file": "/assets/audio/dialogue/b_knight_capture_trample.weba"
+        }
+      ]
+    },
+    "bishop": {
+      "move": [
+        {
+          "id": "b_bishop_move_angle",
+          "text": "Cut the diagonal.",
+          "file": "/assets/audio/dialogue/b_bishop_move_angle.weba"
+        }
+      ],
+      "capture": [
+        {
+          "id": "b_bishop_capture_purge",
+          "text": "Purged from the board!",
+          "file": "/assets/audio/dialogue/b_bishop_capture_purge.weba"
+        }
+      ]
+    },
+    "rook": {
+      "move": [
+        {
+          "id": "b_rook_move_roll",
+          "text": "Heavy armor rolling forward.",
+          "file": "/assets/audio/dialogue/b_rook_move_roll.weba"
+        }
+      ],
+      "capture": [
+        {
+          "id": "b_rook_capture_demolish",
+          "text": "Total demolition!",
+          "file": "/assets/audio/dialogue/b_rook_capture_demolish.weba"
+        }
+      ]
+    },
+    "queen": {
+      "move": [
+        {
+          "id": "b_queen_move_sweep",
+          "text": "This board belongs to me.",
+          "file": "/assets/audio/dialogue/b_queen_move_sweep.weba"
+        }
+      ],
+      "capture": [
+        {
+          "id": "b_queen_capture_crush",
+          "text": "Bow before your master, and crumble!",
+          "ttsText": "Bough before your master, and crumble!",
+          "file": "/assets/audio/dialogue/b_queen_capture_crush.weba"
+        }
+      ]
+    },
+    "king": {
+      "check": [
+        {
+          "id": "b_king_check_rally",
+          "text": "Rally to me! Close the formation!",
+          "file": "/assets/audio/dialogue/b_king_check_rally.weba"
+        }
+      ],
+      "checkmate": [
+        {
+          "id": "b_king_checkmate_end",
+          "text": "It is finished... We are broken.",
+          "file": "/assets/audio/dialogue/b_king_checkmate_end.weba"
+        }
+      ]
+    }
+  }
+}
